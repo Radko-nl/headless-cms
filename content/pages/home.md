@@ -30,7 +30,7 @@ accordion:
     title: download theme for free (today!)
 meta:
   description: the shopify + gatsby starter theme for digital commerce
-  title: headless
+  title: Radko Titel
 ---
 
 
