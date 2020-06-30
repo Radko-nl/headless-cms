@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Welkom hier op de site
 featuredImage: 'https://ucarecdn.com/23546c2d-613f-4fb8-a26f-126f3270472b/'
-subtitle: '## the shopify + gatsby starter theme for digital commerce'
+subtitle: '## Bla bla bla'
 accordion:
   - content: >-
       [GatsbyJS](https://www.gatsbyjs.com/) is on the cutting edge of modern
